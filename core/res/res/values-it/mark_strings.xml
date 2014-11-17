@@ -36,4 +36,7 @@
     <!-- Button to soft reboot the device, within the Reboot Options dialog -->
     <string name="reboot_soft">Riavvio veloce</string>
 
+    <!-- Long-press back kill application -->
+    <string name="app_killed_message">Cordiali Saluti. AS</string>
+
 </resources>
