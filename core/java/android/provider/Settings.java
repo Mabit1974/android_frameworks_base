@@ -3251,6 +3251,12 @@ public final class Settings {
          */
 
         /**
+         * Hide search bar in recents
+         * @hide
+         */
+        public static final String RECENTS_HIDE_SEARCH_BAR = "recents_hide_search_bar";
+
+        /**
          * Whether to show the brightness slider in quick settings panel.
          * @hide
          */
