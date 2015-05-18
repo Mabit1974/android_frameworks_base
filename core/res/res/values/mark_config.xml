@@ -28,4 +28,8 @@
          kill the foreground app. -->
     <integer name="config_backKillTimeout">1200</integer>
 
+    <!-- Package name providing alternate WebView implementation.
+         Fall back to config_webViewPackageName if not available. -->
+    <string name="config_alternateWebViewPackageName" translatable="false">com.google.android.webview</string>
+
 </resources>

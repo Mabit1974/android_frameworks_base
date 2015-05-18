@@ -43,4 +43,7 @@
   <!-- Automatic brightness enhancements -->
   <java-symbol type="integer" name="config_autoBrightnessBrighteningLightFastDebounce"/>
 
+  <!-- Alternate WebView -->
+  <java-symbol type="string" name="config_alternateWebViewPackageName" />
+
 </resources>
