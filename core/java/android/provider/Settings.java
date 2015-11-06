@@ -3251,6 +3251,12 @@ public final class Settings {
         public static final String QS_SHOW_BRIGHTNESS_SLIDER = "qs_show_brightness_slider";
 
         /**
+         * Possibility to disable the voice assist icon (left) on lockscreen
+         * @hide
+         */
+        public static final String DISABLE_VOICE_ASSIST = "disable_voice_assist";
+
+        /**
          * Settings to backup. This is here so that it's in the same place as the settings
          * keys and easy to update.
          *
