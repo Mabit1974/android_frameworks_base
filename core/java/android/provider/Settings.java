@@ -3256,6 +3256,12 @@ public final class Settings {
          */
         public static final String DISABLE_VOICE_ASSIST = "disable_voice_assist";
 
+        /**
+         * Enable double tap gesture anywhere on the lock screen put device to sleep
+         * @hide
+         */
+        public static final String DOUBLE_TAP_SLEEP_ANYWHERE = "double_tap_sleep_anywhere";
+
         /** 
          * Change volume up and down handlign based on rotation
          * @hide
