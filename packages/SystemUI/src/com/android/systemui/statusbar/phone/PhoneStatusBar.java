@@ -235,12 +235,12 @@ public class PhoneStatusBar extends BaseStatusBar implements DemoMode,
             .setUsage(AudioAttributes.USAGE_ASSISTANCE_SONIFICATION)
             .build();
 
-    public static final int FADE_KEYGUARD_START_DELAY = 100;
-    public static final int FADE_KEYGUARD_DURATION = 300;
+    public static final int FADE_KEYGUARD_START_DELAY = 75;
+    public static final int FADE_KEYGUARD_DURATION = 225;
     public static final int FADE_KEYGUARD_DURATION_PULSING = 96;
 
     /** Allow some time inbetween the long press for back and recents. */
-    private static final int LOCK_TO_APP_GESTURE_TOLERENCE = 200;
+    private static final int LOCK_TO_APP_GESTURE_TOLERENCE = 150;
 
     /** If true, the system is in the half-boot-to-decryption-screen state.
      * Prudently disable QS and notifications.  */
@@ -1761,7 +1761,7 @@ public class PhoneStatusBar extends BaseStatusBar implements DemoMode,
                                 + mBackdropBack.getDrawable());
                     }
                     mBackdropFront.animate()
-                            .setDuration(250)
+                            .setDuration(175)
                             .alpha(0f).withEndAction(mHideBackdropFront);
                 }
             }
@@ -1785,7 +1785,7 @@ public class PhoneStatusBar extends BaseStatusBar implements DemoMode,
                             // libhwui.
                             .alpha(0.002f)
                             .setInterpolator(mBackdropInterpolator)
-                            .setDuration(300)
+                            .setDuration(225)
                             .setStartDelay(0)
                             .withEndAction(new Runnable() {
                                 @Override

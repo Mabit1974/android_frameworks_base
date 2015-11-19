@@ -250,7 +250,7 @@ public abstract class WindowOrientationListener {
         // The minimum amount of time that must have elapsed since the screen was last touched
         // before the proposed rotation can change.
         protected static final long PROPOSAL_MIN_TIME_SINCE_TOUCH_END_NANOS =
-                500 * NANOS_PER_MS;
+                375 * NANOS_PER_MS;
 
         /**
          * Gets the proposed rotation.
@@ -353,34 +353,34 @@ public abstract class WindowOrientationListener {
         // the low-pass filter already suppresses most of the noise so we're really just
         // looking for quick confirmation that the last few samples are in agreement as to
         // the desired orientation.
-        private static final long PROPOSAL_SETTLE_TIME_NANOS = 40 * NANOS_PER_MS;
+        private static final long PROPOSAL_SETTLE_TIME_NANOS = 30 * NANOS_PER_MS;
 
         // The minimum amount of time that must have elapsed since the device last exited
         // the flat state (time since it was picked up) before the proposed rotation
         // can change.
-        private static final long PROPOSAL_MIN_TIME_SINCE_FLAT_ENDED_NANOS = 500 * NANOS_PER_MS;
+        private static final long PROPOSAL_MIN_TIME_SINCE_FLAT_ENDED_NANOS = 375 * NANOS_PER_MS;
 
         // The minimum amount of time that must have elapsed since the device stopped
         // swinging (time since device appeared to be in the process of being put down
         // or put away into a pocket) before the proposed rotation can change.
-        private static final long PROPOSAL_MIN_TIME_SINCE_SWING_ENDED_NANOS = 300 * NANOS_PER_MS;
+        private static final long PROPOSAL_MIN_TIME_SINCE_SWING_ENDED_NANOS = 225 * NANOS_PER_MS;
 
         // The minimum amount of time that must have elapsed since the device stopped
         // undergoing external acceleration before the proposed rotation can change.
         private static final long PROPOSAL_MIN_TIME_SINCE_ACCELERATION_ENDED_NANOS =
-                500 * NANOS_PER_MS;
+                375 * NANOS_PER_MS;
 
         // If the tilt angle remains greater than the specified angle for a minimum of
         // the specified time, then the device is deemed to be lying flat
         // (just chillin' on a table).
         private static final float FLAT_ANGLE = 80;
-        private static final long FLAT_TIME_NANOS = 1000 * NANOS_PER_MS;
+        private static final long FLAT_TIME_NANOS = 750 * NANOS_PER_MS;
 
         // If the tilt angle has increased by at least delta degrees within the specified amount
         // of time, then the device is deemed to be swinging away from the user
         // down towards flat (tilt = 90).
         private static final float SWING_AWAY_ANGLE_DELTA = 20;
-        private static final long SWING_TIME_NANOS = 300 * NANOS_PER_MS;
+        private static final long SWING_TIME_NANOS = 225 * NANOS_PER_MS;
 
         // The maximum sample inter-arrival time in milliseconds.
         // If the acceleration samples are further apart than this amount in time, we reset the
