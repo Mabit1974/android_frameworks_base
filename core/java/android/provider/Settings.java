@@ -3275,6 +3275,12 @@ public final class Settings {
         public static final String SWAP_VOLUME_BUTTONS = "swap_volume_buttons";
 
         /**
+         * Enable functions with a long press on tiles
+         * @hide
+         */
+        public static final String LONG_CLICK_TILES = "long_click_tiles";
+
+        /**
          * Settings to backup. This is here so that it's in the same place as the settings
          * keys and easy to update.
          *
