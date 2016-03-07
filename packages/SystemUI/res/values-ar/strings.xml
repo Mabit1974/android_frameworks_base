@@ -405,13 +405,8 @@
     <string name="volumeui_notification_text" msgid="1826889705095768656">"المس لاستعادة الإعداد الأصلي."</string>
     <string name="managed_profile_foreground_toast" msgid="5421487114739245972">"أنت تستخدم ملفك الشخصي للعمل"</string>
     <string name="system_ui_tuner" msgid="708224127392452018">"أداة ضبط واجهة مستخدم النظام"</string>
-    <string name="show_battery_percentage" msgid="5444136600512968798">"عرض نسبة البطارية المدمجة"</string>
-    <string name="show_battery_percentage_summary" msgid="3215025775576786037">"عرض نسبة مستوى البطارية داخل رمز شريط الحالة أثناء عدم الشحن"</string>
     <string name="quick_settings" msgid="10042998191725428">"الإعدادات السريعة"</string>
     <string name="status_bar" msgid="4877645476959324760">"شريط الحالة"</string>
-    <string name="demo_mode" msgid="2389163018533514619">"الوضع التجريبي"</string>
-    <string name="enable_demo_mode" msgid="4844205668718636518">"تمكين الوضع التجريبي"</string>
-    <string name="show_demo_mode" msgid="2018336697782464029">"عرض الوضع التجريبي"</string>
     <string name="status_bar_ethernet" msgid="5044290963549500128">"إيثرنت"</string>
     <string name="status_bar_alarm" msgid="8536256753575881818">"المنبه"</string>
     <string name="status_bar_work" msgid="6022553324802866373">"الملف الشخصي للعمل"</string>

@@ -19,10 +19,10 @@
 
     <Preference
         android:key="qs_tuner"
-        android:title="@string/quick_settings" />
+        android:title="@string/quick_settings_tuner_mark" />
 
     <PreferenceScreen
-        android:title="@string/status_bar" >
+        android:title="@string/status_bar_tuner_mark" >
 
         <com.android.systemui.tuner.StatusBarSwitch
             android:key="cast"
@@ -65,19 +65,5 @@
             android:title="@string/status_bar_airplane" />
 
     </PreferenceScreen>
-
-    <SwitchPreference
-        android:key="battery_pct"
-        android:title="@string/show_battery_percentage"
-        android:summary="@string/show_battery_percentage_summary"
-        android:persistent="false" />
-
-    <Preference
-        android:key="demo_mode"
-        android:title="@string/demo_mode" />
-
-    <Preference
-        android:summary="@string/tuner_persistent_warning"
-        android:selectable="false" />
 
 </PreferenceScreen>

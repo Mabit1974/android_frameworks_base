@@ -403,13 +403,8 @@
     <string name="volumeui_notification_text" msgid="1826889705095768656">"Palieskite, kad atkurtumėte originalą."</string>
     <string name="managed_profile_foreground_toast" msgid="5421487114739245972">"Naudojate darbo profilį"</string>
     <string name="system_ui_tuner" msgid="708224127392452018">"Sistemos naudotojo sąsajos derinimo priemonė"</string>
-    <string name="show_battery_percentage" msgid="5444136600512968798">"Rodyti įterptą akumuliat. įkrovos procentinę vertę"</string>
-    <string name="show_battery_percentage_summary" msgid="3215025775576786037">"Rodyti akumuliatoriaus įkrovos lygio procentinę vertę būsenos juostos piktogramoje, kai įrenginys nėra įkraunamas"</string>
     <string name="quick_settings" msgid="10042998191725428">"Spartieji nustatymai"</string>
     <string name="status_bar" msgid="4877645476959324760">"Būsenos juosta"</string>
-    <string name="demo_mode" msgid="2389163018533514619">"Demonstracinis režimas"</string>
-    <string name="enable_demo_mode" msgid="4844205668718636518">"Įgalinti demonstracinį režimą"</string>
-    <string name="show_demo_mode" msgid="2018336697782464029">"Rodyti demonstraciniu režimu"</string>
     <string name="status_bar_ethernet" msgid="5044290963549500128">"Eternetas"</string>
     <string name="status_bar_alarm" msgid="8536256753575881818">"Signalas"</string>
     <string name="status_bar_work" msgid="6022553324802866373">"Darbo profilis"</string>

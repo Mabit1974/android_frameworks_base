@@ -401,13 +401,8 @@
     <string name="volumeui_notification_text" msgid="1826889705095768656">"Gusa ili urejeshe ya awali."</string>
     <string name="managed_profile_foreground_toast" msgid="5421487114739245972">"Unatumia wasifu wako wa kazini"</string>
     <string name="system_ui_tuner" msgid="708224127392452018">"Kipokea Ishara cha SystemUI"</string>
-    <string name="show_battery_percentage" msgid="5444136600512968798">"Onyesha asilimia ya betri iliyopachikwa"</string>
-    <string name="show_battery_percentage_summary" msgid="3215025775576786037">"Onyesha asilimia ya kiwango cha betri ndani ya aikoni ya sehemu ya arifa inapokuwa haichaji"</string>
     <string name="quick_settings" msgid="10042998191725428">"Mipangilio ya Haraka"</string>
     <string name="status_bar" msgid="4877645476959324760">"Sehemu ya kuonyesha hali"</string>
-    <string name="demo_mode" msgid="2389163018533514619">"Hali ya onyesho"</string>
-    <string name="enable_demo_mode" msgid="4844205668718636518">"Washa hali ya onyesho"</string>
-    <string name="show_demo_mode" msgid="2018336697782464029">"Onyesha hali ya onyesho"</string>
     <string name="status_bar_ethernet" msgid="5044290963549500128">"Ethaneti"</string>
     <string name="status_bar_alarm" msgid="8536256753575881818">"Kengele"</string>
     <string name="status_bar_work" msgid="6022553324802866373">"Wasifu wa kazini"</string>

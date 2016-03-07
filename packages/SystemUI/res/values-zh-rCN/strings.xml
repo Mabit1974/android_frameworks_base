@@ -401,13 +401,8 @@
     <string name="volumeui_notification_text" msgid="1826889705095768656">"触摸即可恢复原始设置。"</string>
     <string name="managed_profile_foreground_toast" msgid="5421487114739245972">"您当前正在使用工作资料"</string>
     <string name="system_ui_tuner" msgid="708224127392452018">"系统界面调谐器"</string>
-    <string name="show_battery_percentage" msgid="5444136600512968798">"嵌入式显示电池电量百分比 显示嵌入的电池电量百分比"</string>
-    <string name="show_battery_percentage_summary" msgid="3215025775576786037">"未充电时在状态栏图标内显示电池电量百分比"</string>
     <string name="quick_settings" msgid="10042998191725428">"快捷设置"</string>
     <string name="status_bar" msgid="4877645476959324760">"状态栏"</string>
-    <string name="demo_mode" msgid="2389163018533514619">"演示模式"</string>
-    <string name="enable_demo_mode" msgid="4844205668718636518">"启用演示模式"</string>
-    <string name="show_demo_mode" msgid="2018336697782464029">"显示演示模式"</string>
     <string name="status_bar_ethernet" msgid="5044290963549500128">"以太网"</string>
     <string name="status_bar_alarm" msgid="8536256753575881818">"闹钟"</string>
     <string name="status_bar_work" msgid="6022553324802866373">"工作资料"</string>

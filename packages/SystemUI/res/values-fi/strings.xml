@@ -401,13 +401,8 @@
     <string name="volumeui_notification_text" msgid="1826889705095768656">"Palauta alkuperäinen koskettamalla."</string>
     <string name="managed_profile_foreground_toast" msgid="5421487114739245972">"Käytät työprofiilia."</string>
     <string name="system_ui_tuner" msgid="708224127392452018">"System UI Tuner"</string>
-    <string name="show_battery_percentage" msgid="5444136600512968798">"Näytä akun varaus kuvakkeessa"</string>
-    <string name="show_battery_percentage_summary" msgid="3215025775576786037">"Näyttää akun varausprosentin tilapalkin kuvakkeessa, kun laitetta ei ladata."</string>
     <string name="quick_settings" msgid="10042998191725428">"Pika-asetukset"</string>
     <string name="status_bar" msgid="4877645476959324760">"Tilapalkki"</string>
-    <string name="demo_mode" msgid="2389163018533514619">"Esittelytila"</string>
-    <string name="enable_demo_mode" msgid="4844205668718636518">"Ota esittelytila käyttöön"</string>
-    <string name="show_demo_mode" msgid="2018336697782464029">"Näytä esittelytila"</string>
     <string name="status_bar_ethernet" msgid="5044290963549500128">"Ethernet"</string>
     <string name="status_bar_alarm" msgid="8536256753575881818">"Herätys"</string>
     <string name="status_bar_work" msgid="6022553324802866373">"Työprofiili"</string>

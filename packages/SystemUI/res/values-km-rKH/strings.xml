@@ -401,13 +401,8 @@
     <string name="volumeui_notification_text" msgid="1826889705095768656">"ប៉ះដើម្បីស្តារច្បាប់ដើម។"</string>
     <string name="managed_profile_foreground_toast" msgid="5421487114739245972">"អ្នកកំពុងប្រើប្រវត្តិរូបការងាររបស់អ្នក"</string>
     <string name="system_ui_tuner" msgid="708224127392452018">"កម្មវិធីសម្រួល UI ប្រព័ន្ធ"</string>
-    <string name="show_battery_percentage" msgid="5444136600512968798">"បង្ហាញភាគរយថាមពលថ្មដែលបានបង្កប់"</string>
-    <string name="show_battery_percentage_summary" msgid="3215025775576786037">"បង្ហាញភាគរយនៃកម្រិតថាមពលថ្មនៅក្នុងរូបតំណាងរបារស្ថានភាពនៅពេលមិនសាកថ្ម"</string>
     <string name="quick_settings" msgid="10042998191725428">"ការកំណត់រហ័ស"</string>
     <string name="status_bar" msgid="4877645476959324760">"របារស្ថានភាព"</string>
-    <string name="demo_mode" msgid="2389163018533514619">"របៀបសាកល្បង"</string>
-    <string name="enable_demo_mode" msgid="4844205668718636518">"បើករបៀបសាកល្បង"</string>
-    <string name="show_demo_mode" msgid="2018336697782464029">"បង្ហាញរបៀបសាកល្បង"</string>
     <string name="status_bar_ethernet" msgid="5044290963549500128">"អ៊ីសឺរណិត"</string>
     <string name="status_bar_alarm" msgid="8536256753575881818">"ម៉ោងរោទ៍"</string>
     <string name="status_bar_work" msgid="6022553324802866373">"ប្រវត្តិរូបការងារ"</string>

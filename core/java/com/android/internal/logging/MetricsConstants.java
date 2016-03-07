@@ -252,21 +252,19 @@ public interface MetricsConstants {
     public static final int ACTION_SEARCH_RESULTS = 226;
     public static final int TUNER = 227;
     public static final int TUNER_QS = 228;
-    public static final int TUNER_DEMO_MODE = 229;
     public static final int TUNER_QS_REORDER = 230;
     public static final int TUNER_QS_ADD = 231;
     public static final int TUNER_QS_REMOVE = 232;
     public static final int TUNER_STATUS_BAR_ENABLE = 233;
     public static final int TUNER_STATUS_BAR_DISABLE = 234;
-    public static final int TUNER_DEMO_MODE_ENABLED = 235;
-    public static final int TUNER_DEMO_MODE_ON = 236;
-    public static final int TUNER_BATTERY_PERCENTAGE = 237;
     public static final int FUELGAUGE_INACTIVE_APPS = 238;
     public static final int MARK_TWEAKS = 239;
     public static final int MARK_SYSTEM = 240;
     public static final int MARK_STATUS_AND_NAVIGATION_BARS = 241;
     public static final int MARK_NOTIFICATIONS_AND_QS = 242;
     public static final int MARK_VOLUME_ROCKER = 243;
+
+    // Free metrics constants 229, 235, 236, 237
 
     // These constants must match those in the analytic pipeline, do not edit.
     // Add temporary values to the top of MetricsLogger instead.

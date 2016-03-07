@@ -401,13 +401,8 @@
     <string name="volumeui_notification_text" msgid="1826889705095768656">"Toca para restaurar la versión original."</string>
     <string name="managed_profile_foreground_toast" msgid="5421487114739245972">"Estás usando tu perfil de trabajo"</string>
     <string name="system_ui_tuner" msgid="708224127392452018">"Configurador de IU del sistema"</string>
-    <string name="show_battery_percentage" msgid="5444136600512968798">"Mostrar porcentaje de batería insertado"</string>
-    <string name="show_battery_percentage_summary" msgid="3215025775576786037">"Mostrar el porcentaje del nivel de batería en el icono de la barra de estado cuando no se esté cargando"</string>
     <string name="quick_settings" msgid="10042998191725428">"Ajustes rápidos"</string>
     <string name="status_bar" msgid="4877645476959324760">"Barra de estado"</string>
-    <string name="demo_mode" msgid="2389163018533514619">"Modo de demostración"</string>
-    <string name="enable_demo_mode" msgid="4844205668718636518">"Habilitar modo de demostración"</string>
-    <string name="show_demo_mode" msgid="2018336697782464029">"Mostrar modo de demostración"</string>
     <string name="status_bar_ethernet" msgid="5044290963549500128">"Ethernet"</string>
     <string name="status_bar_alarm" msgid="8536256753575881818">"Alarma"</string>
     <string name="status_bar_work" msgid="6022553324802866373">"Perfil de trabajo"</string>

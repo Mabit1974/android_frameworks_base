@@ -401,13 +401,8 @@
     <string name="volumeui_notification_text" msgid="1826889705095768656">"Chạm để khôi phục bản gốc."</string>
     <string name="managed_profile_foreground_toast" msgid="5421487114739245972">"Bạn đang sử dụng hồ sơ công việc của mình"</string>
     <string name="system_ui_tuner" msgid="708224127392452018">"Bộ điều hướng giao diện người dùng hệ thống"</string>
-    <string name="show_battery_percentage" msgid="5444136600512968798">"Hiển thị tỷ lệ phần trăm pin được nhúng"</string>
-    <string name="show_battery_percentage_summary" msgid="3215025775576786037">"Hiển thị tỷ lệ phần trăm mức pin bên trong biểu tượng thanh trạng thái khi không sạc"</string>
     <string name="quick_settings" msgid="10042998191725428">"Cài đặt nhanh"</string>
     <string name="status_bar" msgid="4877645476959324760">"Thanh trạng thái"</string>
-    <string name="demo_mode" msgid="2389163018533514619">"Chế độ trình diễn"</string>
-    <string name="enable_demo_mode" msgid="4844205668718636518">"Bật chế độ trình diễn"</string>
-    <string name="show_demo_mode" msgid="2018336697782464029">"Hiển thị chế độ trình diễn"</string>
     <string name="status_bar_ethernet" msgid="5044290963549500128">"Ethernet"</string>
     <string name="status_bar_alarm" msgid="8536256753575881818">"Báo thức"</string>
     <string name="status_bar_work" msgid="6022553324802866373">"Hồ sơ công việc"</string>

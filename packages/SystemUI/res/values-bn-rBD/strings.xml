@@ -401,13 +401,8 @@
     <string name="volumeui_notification_text" msgid="1826889705095768656">"আসলটি পুনঃস্থাপন করতে স্পর্শ করুন৷"</string>
     <string name="managed_profile_foreground_toast" msgid="5421487114739245972">"আপনি আপনার কাজের প্রোফাইল ব্যবহার করছেন"</string>
     <string name="system_ui_tuner" msgid="708224127392452018">"সিস্টেম UI টিউনার"</string>
-    <string name="show_battery_percentage" msgid="5444136600512968798">"এম্বেড করা ব্যাটারির শতকরা হার দেখায়"</string>
-    <string name="show_battery_percentage_summary" msgid="3215025775576786037">"যখন চার্জ করা হবে না তখন স্থিতি দন্ডের আইকনের ভিতরে ব্যাটারি স্তরের শতকার হার দেখায়"</string>
     <string name="quick_settings" msgid="10042998191725428">"দ্রুত সেটিংস"</string>
     <string name="status_bar" msgid="4877645476959324760">"স্থিতি দন্ড"</string>
-    <string name="demo_mode" msgid="2389163018533514619">"ডেমো মোড"</string>
-    <string name="enable_demo_mode" msgid="4844205668718636518">"ডেমো মোড সক্ষম করুন"</string>
-    <string name="show_demo_mode" msgid="2018336697782464029">"ডেমো মোড দেখান"</string>
     <string name="status_bar_ethernet" msgid="5044290963549500128">"ইথারনেট"</string>
     <string name="status_bar_alarm" msgid="8536256753575881818">"অ্যালার্ম"</string>
     <string name="status_bar_work" msgid="6022553324802866373">"কাজের প্রোফাইল"</string>

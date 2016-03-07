@@ -48,4 +48,19 @@
     <!-- [CHAR LIMIT=130] Location detail panel, description for sensors only mode -->
     <string name="quick_settings_location_detail_mode_sensors_only_description">Usa GPS per determinare la posizione </string>
 
+    <!-- Name of special SystemUI debug settings -->
+    <string name="system_ui_tuner_mark">Tweaks nascosti</string>
+    <!-- Name of status bar tuner menu -->
+    <string name="status_bar_tuner_mark">Elementi barra di stato</string>
+    <!-- Name of qs tuner menu -->
+    <string name="quick_settings_tuner_mark">Elementi quick settings</string>
+    <!-- Warning for users entering the System UI tuner for the first time [CHAR LIMIT=NONE]-->
+    <string name="tuner_warning_mark">Questa sezione segreta di Android mette a disposizione altri metodi per modificare e personalizzare l\'interfaccia utente. Queste funzioni sperimentali potrebbero uccidere il tuo Nexus, la tua ragazza, tua suocera o causare problemi al tuo pene... A TE la scelta!</string>
+    <!-- Option to reset the tuner [CHAR LIMIT=NONE] -->
+    <string name="reset_all_settings_mark">Resetta impostazioni</string>
+    <!-- Dialog asking if the tuner should really reset all settings [CHAR LIMIT=NONE]-->
+    <string name="reset_all_settings_prompt_mark">Annullare tutte le modifiche?</string>
+    <!-- Label for button in confirmation dialog when reset guest session [CHAR LIMIT=35] -->
+    <string name="guest_exit_guest_dialog_reset_mark">Resetta</string>
+
 </resources>
